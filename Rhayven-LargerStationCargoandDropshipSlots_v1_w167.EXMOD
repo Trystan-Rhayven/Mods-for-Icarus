@@ -1,0 +1,33 @@
+{
+    "name": "Rhayven-LargerStationCargoandDropshipSlots",
+    "author": "Rhayven",
+    "version": "1.0",
+    "week": "167",
+    "fileName": "Rhayven-LargerStationCargoandDropshipSlots_v1_w165",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "Station Loadout Cargo and Dropship increase from 15 - 30",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Inventory-D_InventoryInfo.json",
+            "File_Items": [
+                {
+                    "Name": "Space_Player_Loadout",
+                    "StartingSlots": 30
+                },
+                {
+                    "Name": "On_Prospect_Loadout_Request",
+                    "StartingSlots": 30
+                 },
+                {
+                    "Name": "DropShip_Equipment",
+                    "StartingSlots": 30
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
