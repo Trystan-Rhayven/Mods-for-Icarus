@@ -1,7 +1,28 @@
-    "name": "Rhayven-Combined_QOL",
-      "author": "Rhayven",
+{
+  "mods": [
+    {
+      "name": "Rhayven-LargerStationCargoandDropshipSlots_v1_w167",
+      "author": "Trystan",
       "version": "1.0",
-      "compatibility": "w167",
-      "description": "Combines Large Dropship slots with more stations slots 15-30",
+      "compatibility": "All",
+      "description": "It adds from 15 to 30 Slots to the OEI and Player Drop Ship",
       "files": {
-        "EXMOD": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/raw/main/Rhayven-LargerStationCargoandDropshipSlots_v1_w167.EXMOD"
+       "exmodz": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/raw/main/Rhayven-LargerStationCargoandDropshipSlots_v1_w167.EXMOD"
+      },
+      "imageURL": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/blob/main/TheRhayven.jpg",
+      "readmeURL": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/raw/main/README.md"
+    },
+    {
+      "name": "Second Mod Name",
+      "author": "see below",
+      "version": "see below",
+      "compatibility": "see below",
+      "description": "see below",
+      "files": {
+        "pak": "the direct do"
+      },
+      "imageURL": "see below",
+      "readmeURL": "see below"
+    }
+  ]
+}
