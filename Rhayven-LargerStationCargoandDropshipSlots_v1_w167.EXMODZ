@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "Rhayven-LargerStationCargoandDropshipSlots_v1_w167",
+      "author": "Trystan",
+      "version": "1.0",
+      "compatibility": "All",
+      "description": "It adds from 15 to 30 Slots to the OEI and Player Drop Ship",
+      "files": {
+       "exmodz": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/raw/main/Rhayven-LargerStationCargoandDropshipSlots_v1_w167.EXMOD"
+      },
+      "imageURL": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/blob/main/TheRhayven.jpg",
+      "readmeURL": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/raw/main/README.md"
+    }
+  ]
+}
