@@ -1,16 +1,33 @@
 {
-  "mods": [
-    {
-      "name": "Rhayven-LargerStationCargoandDropshipSlots_v1_w167",
-      "author": "Trystan",
-      "version": "1.0",
-      "compatibility": "All",
-      "description": "It adds from 15 to 30 Slots to the OEI and Player Drop Ship",
-      "files": {
-       "exmodz": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/raw/main/Rhayven-LargerStationCargoandDropshipSlots_v1_w167.EXMODZ"
-      },
-      "imageURL": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/raw/main/TheRhayven.jpg",
-      "readmeURL": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/raw/main/README.md"
-    }
-  ]
+    "name": "Rhayven-LargerStationCargoandDropshipSlots",
+    "author": "Rhayven",
+    "version": "1.0",
+    "week": "167",
+    "fileName": "Rhayven-LargerStationCargoandDropshipSlots_v1_w165",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "Station Loadout Cargo and Dropship increase from 15 - 30",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Inventory-D_InventoryInfo.json",
+            "File_Items": [
+                {
+                    "Name": "Space_Player_Loadout",
+                    "StartingSlots": 30
+                },
+                {
+                    "Name": "On_Prospect_Loadout_Request",
+                    "StartingSlots": 30
+                 },
+                {
+                    "Name": "DropShip_Equipment",
+                    "StartingSlots": 30
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
 }
