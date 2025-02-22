@@ -11,6 +11,18 @@
       },
       "imageURL": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/raw/main/TheRhayven.jpg",
       "readmeURL": "https://github.com/Trystan-Rhayven/Mods-for-Icarus/raw/main/README.md"
+      },
+    {
+      "name": "Second Mod Name",
+      "author": "see below",
+      "version": "see below",
+      "compatibility": "see below",
+      "description": "see below",
+      "files": {
+        "pak": "the direct download URL for your PAK mod file"
+      },
+      "imageURL": "see below",
+      "readmeURL": "see below"
     }
   ]
 }
